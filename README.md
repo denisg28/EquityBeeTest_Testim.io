@@ -1,2 +1,3 @@
 # EquityBeeTest
-My Auto-tests on Testim.io!
+- My Auto-tests on Testim.io!
+- Equitybee.com
